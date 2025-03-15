@@ -4,10 +4,12 @@ body {
 
 h2 {
     color:white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2:hover {
     color:#17202a;
+    transition-duration: 0.5s;
 }
 
 .card {
